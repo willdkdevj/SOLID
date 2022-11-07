@@ -5,7 +5,7 @@
 [![Solid Badge](https://img.shields.io/badge/-SOLID-blue?style=flat-square&logo=SOLID&logoColor=white&link=https://pt.wikipedia.org/wiki/SOLID)](https://pt.wikipedia.org/wiki/SOLID)
 
 
-<img align="right" width="400" height="300" src="https://github.com/willdkdevj/assets/blob/main/Spring/solid.png">
+<img align="right" width="400" height="300" src="https://github.com/willdkdevj/SOLID/blob/master/assets/solid.png">
 
 ## Descrição da Aplicação
 A aplicação consiste em um simples projeto que simula algumas classes de um sistema de Recursos Humanos (RH), na qual necessita administrar os cadastros de seus funcionários e seus terceirizados e suas respectivas particularidades, como promoções, alterações de salários e regras de negócios.
